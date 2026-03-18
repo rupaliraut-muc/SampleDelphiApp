@@ -23,7 +23,7 @@ It serves as a reference point for future migration efforts and helps maintain h
 
 ## Migration
 This codebase **will be migrated to a new C#, .NET WPF application**, located in the repository:  
-👉 [SampleCSharpWPF](../SampleCSharpWPF)
+[SampleCSharpWPF]([../SampleCSharpWPF](https://github.com/rupaliraut-muc/SampleCSharpWPF))
 
 The migration will focus on:
 - Converting Delphi logic to C#  
